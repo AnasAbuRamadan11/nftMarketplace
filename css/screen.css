@@ -1,0 +1,481 @@
+@media (min-width: 1400px){
+
+    .headerSection .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1200px;
+}}
+
+@media (min-width: 1400px){
+
+    .trending .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1200px;
+}
+}
+
+@media (min-width: 1400px){
+
+    .topCreators .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1200px;
+}}
+
+@media (min-width: 1400px){
+
+    .category .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1200px;
+}}
+
+@media (min-width: 1400px){
+
+    .discover .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1200px;
+}}
+
+@media (min-width: 1400px){
+
+    .magic .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1200px;
+}}
+
+@media (min-width: 1400px){
+
+    .howWork .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1200px;
+}}
+
+@media (min-width: 1400px){
+
+    .join .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1200px;
+}}
+
+@media (min-width: 1400px){
+
+    .footer .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1200px;
+}}
+
+@media (min-width: 1400px){
+
+    .profileBackground .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1200px;
+}}
+
+@media (min-width: 1400px){
+
+    .profileContent .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1200px;
+}}
+
+@media (min-width: 1400px){
+
+    .profileCategory .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1200px;
+}}
+
+@media (min-width: 1400px){
+
+    .nftDetailsContent .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1200px;
+}}
+
+@media (min-width: 1400px){
+
+    .nftDetailsCategory .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1200px;
+}}
+
+@media (min-width: 1400px){
+
+    .browseMarketplace1 .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1200px;
+}}
+
+@media (min-width: 1400px){
+
+    .rankingSection1 .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1200px;
+}}
+
+@media (min-width: 1400px){
+
+    .rankingSection2 .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1200px;
+}}
+
+
+
+
+@media(max-width: 992px) {
+
+    
+    .topCreators .row {
+
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+
+    .topCreators .row .box .smallCircle {
+
+        top: 16px;
+        left: 40%;
+    }
+
+    .headerSection .textH2 h2 {
+
+        font-size: 40px;
+    }
+
+    .headerSection .headerP {
+
+        font-size: 16px;
+    }
+
+    .uniqueP {
+
+        font-size: 15px;
+    }
+
+    h4.uniqeH4 {
+
+        font-size: 16px;
+        
+    }
+
+    .join .joinContent .row .second {
+
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .join .joinContent .row p.uniqueP {
+
+        font-size: 18px !important;
+        width: 100%;
+    }
+
+    .join .joinContent .row .second form [type=submit] {
+
+        position: relative !important;
+        width: 100%;
+        margin-top: 25px;
+        
+    }
+
+    .createAccount .row .second h2 {
+
+        font-size: 38px;
+    }
+
+    .createAccount .row .second p {
+
+        font-size: 16px;
+    }
+
+    .createAccount .row .second form .formInput {
+
+        max-width: 350px;
+    }
+
+    .createAccount .row .second {
+
+        margin-top: 40px;
+    }
+
+    .nftDetailsContent .row .first h2 {
+
+        font-size: 38px;
+    }
+
+    .nftDetailsContent .row .first p.firstP,
+    .nftDetailsContent .row .first h5 {
+
+        font-size: 18px;
+    }
+
+    .nftDetailsContent .row .first p.tallP {
+
+        font-size: 16px;
+    }
+    .nftDetailsContent .row .first p.tallP {
+
+        font-size: 16px;
+    }
+    .nftDetailsContent .row .first ul.lastLine {
+
+        flex-direction: column;
+    }
+
+    .nftDetailsContent .row .first ul.lastLine li {
+
+        width: fit-content;
+    }
+
+    .browseMarketplace1 h2 {
+
+        font-size: 38px;
+    }
+
+    .browseMarketplace1 p.firstP {
+
+        font-size: 18px;
+    }
+
+    .profileContent .secondPart .h5Bio {
+
+        font-size: 18px;
+    }
+
+    .profileContent .firstPartButtons {
+
+        text-align: left;
+    }
+
+    .ConnectAWallet .row .second h2 {
+
+        font-size: 38px;
+    }
+    .ConnectAWallet .row .second p {
+
+        font-size: 18px;
+    }
+
+    .rankingSection2 .box img {
+
+        width: 24px;
+        height: 24px;
+    }
+
+    .firstPartMenu ul li button {
+
+        font-size: 18px;
+    }
+    
+    .rankingSection2 .box span.firstSpan {
+
+    background-color: var(--BackgroundSecoundary);
+    }
+
+    .magic .magicContent .first h2 {
+
+        font-size: 38px;
+    }
+
+    .profileContent {
+
+        padding-top: 0 !important;
+    }
+}
+
+
+@media(max-width: 768px) {
+
+    .topCreators .firstPart {
+
+        flex-direction: column;
+    }
+
+    .topCreators .firstPart .second {
+
+        width: 100%;
+    }
+    .topCreators .firstPart .second a {
+
+        width: 100%;
+    }
+
+    .topCreators .row {
+
+        grid-template-columns: repeat(1, 1fr) !important;
+    }
+
+    .discover .firstPart {
+
+        flex-direction: column;
+    }
+    
+    .discover .firstPart .second {
+
+        width: 100%;
+    }
+
+    .discover .firstPart .second a {
+
+        width: 100%;
+    }
+
+    .join .joinContent .second .h3Text h3 {
+
+        font-size: 34px !important;
+    }
+
+    .createAccount .row .second form .formInput {
+
+        width: 100% !important;
+    }
+
+    .headerSection .getStartButton {
+
+        width: 100%;
+    }
+
+    .nftDetailsCategory .firstPart {
+
+        flex-direction: column;
+    }
+
+    .nftDetailsCategory .firstPart .second {
+
+        width: 100%;
+    }
+    .nftDetailsCategory .firstPart .second a {
+
+        width: 100%;
+    }
+
+    
+    .profileContent .row .first .firstPart .uniqueH2 {
+
+        font-size: 36px;
+    }
+
+    .firstPartMenu ul li button span {
+
+        display: none !important;
+    }
+
+    .rankingSection2 .box .pName {
+
+        font-size: 18px;
+        font-weight: normal !important;
+    }
+
+    .firstPartMenu ul li button {
+
+        font-size: 16px;
+    }
+
+    .ConnectAWallet .row .second {
+
+        margin-top: 3rem;
+    }
+
+    .profileContent {
+
+        padding-top: 0 !important;
+    }
+}
+
+@media(max-width:576px) {
+
+    .ConnectAWallet .second {
+
+        margin-bottom: 3rem !important;
+    }
+
+    .rankingSection2 .firstPart .row {
+
+        max-height: 27px;
+    }
+
+    .rankingSection2 .row {
+
+        flex-wrap: nowrap;
+    }
+
+    .magic {
+
+        display: none;
+    }
+
+    
+    .rankingSection2 {
+
+        padding-top: 0 !important;
+    }
+
+    a.rankingButton {
+
+        margin-top: 1.5rem !important;
+    }
+
+    a.rankingButton {
+
+        margin-top: 1.5rem !important;
+    }
+
+    .howWork {
+
+        padding-top: 0 !important;
+    }
+
+    .unique-ele {
+
+        display: none;
+    }
+
+    .category {
+
+        margin-top: 3rem;
+    }
+
+    .topCreators {
+
+        padding-top: 0 !important;
+    }
+
+    .trending {
+
+        padding-top: 0 !important;
+    }
+
+    .discover {
+
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
+    }
+
+    .howWork {
+
+        padding-top: 0 !important;
+    }
+
+    .magic {
+
+        margin-bottom: 0 !important;
+    }
+
+    .join {
+
+        margin-top: 0 !important;
+    }
+
+    .join .joinContent .second .h3Text {
+
+        margin-top: 3rem !important;
+    }
+
+    .join .joinContent .second .h3Text h3 {
+
+        font-size: 28px !important;
+        
+    }
+
+    .createAccount .row .second, .ConnectAWallet .row .second {
+
+        padding-left: 30px;
+    }
+
+    .headerSection .row .second {
+
+        margin-top: 3rem;
+    }
+
+    .browseMarketplace1 {
+
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
+    }
+
+    .profileContent {
+
+        padding-top: 0 !important;
+    }
+}
